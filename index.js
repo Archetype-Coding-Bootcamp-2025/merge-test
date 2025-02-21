@@ -1,3 +1,3 @@
-let x = 1;
-let y = 2;
+let x = 2;
+let y = 3;
 let fullName = "Torre Lo";
